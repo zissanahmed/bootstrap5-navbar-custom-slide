@@ -1,0 +1,31 @@
+.c_prev {
+    left: 89% !important;
+    bottom: 5% !important;
+}
+
+
+.c_next {
+    right: 2% !important;
+    bottom: 5% !important;
+}
+
+.c_prev, .c_next {
+    top: 85%;
+    width: 5%;
+}
+.cc_indicators {
+    position: absolute;
+    width: 15px;
+    height: 15px;
+    right: 75%;
+    bottom: 80%;
+    left: 0;
+    z-index: 2;
+    display:flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 1rem;
+    margin-left: 5%;
+
+}
